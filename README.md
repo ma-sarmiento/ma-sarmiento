@@ -6,10 +6,10 @@
 
 ## 🛠️ Tecnologías y herramientas
 
-- **Lenguajes:** C, C++, Java, JavaScript, Kotlin, HTML5, CSS3, SQL, Postgresql, Python. 
-- **Frontend:** Spring Boot, Angular, JavaFX
-- **Backend y ORM:** 
-- **Bases de Datos:** PostgreSQL, Oracle, Firebase
+- **Lenguajes:** C, C++, Java, JavaScript, Kotlin, HTML5, CSS3,Typescript, SQL, Python. 
+- **Frontend:** Angular, JavaFX
+- **Backend y ORM:** Spring Boot 
+- **Bases de Datos:** PostgreSQL, Oracle, Firebase, mongo, h2.
 - **Control de Versiones:** Git, GitHub. 
 - **Diseño:** Figma  
 
