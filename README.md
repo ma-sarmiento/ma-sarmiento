@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hola, soy Miguel Sarmiento
 
-<!--
-**ma-sarmiento/ma-sarmiento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería de Sistemas, me gusta el desarrollo de software, el diseño de interfaces intuitivas y soluciones que aporten a la resolucion de proyectos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y herramientas
+
+- **Lenguajes:** C, C++, Java, JavaScript, Kotlin, HTML5, CSS3, SQL, Postgresql, Python. 
+- **Frontend:** Spring Boot, Angular, JavaFX
+- **Backend y ORM:** 
+- **Bases de Datos:** PostgreSQL, Oracle, Firebase
+- **Control de Versiones:** Git, GitHub. 
+- **Diseño:** Figma  
+
+---
+## 📫 Contacto
+
+- 📧 **Correo:** msarmientocuervo@gmail.com  
+- 💼 **LinkedIn:** www.linkedin.com/in/ma-sarmiento  
+- 🌐 **Portafolio:** *(En Desarrollo)*
+
+---
+
+¡Gracias por visitar mi perfil! Siempre estoy abierto a nuevos retos y oportunidades 🙌
