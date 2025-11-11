@@ -6,7 +6,7 @@
 
 ## 🛠️ Tecnologías y herramientas
 
-- **Lenguajes:** C, C++, Java, JavaScript, Kotlin, HTML5, CSS3,Typescript, SQL, Python. 
+- **Lenguajes:** C, C++, Java, JavaScript, Kotlin, Dart, HTML5, CSS3,Typescript, SQL, Python. 
 - **Frontend:** Angular, JavaFX
 - **Backend y ORM:** Spring Boot 
 - **Bases de Datos:** PostgreSQL, Oracle, Firebase, mongo, h2.
