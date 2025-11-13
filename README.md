@@ -9,7 +9,7 @@
 - **Lenguajes:** C, C++, Java, JavaScript, Kotlin, Dart, HTML5, CSS3,Typescript, SQL, Python. 
 - **Frontend:** Angular, JavaFX
 - **Backend y ORM:** Spring Boot 
-- **Bases de Datos:** PostgreSQL, Oracle, Firebase, mongo, h2.
+- **Bases de Datos:** PostgreSQL, Oracle, Firebase, MongoDB, h2.
 - **Control de Versiones:** Git, GitHub. 
 - **Diseño:** Figma  
 
